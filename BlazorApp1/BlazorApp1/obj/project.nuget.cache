@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fV8KZZUWALE=",
+  "dgSpecHash": "qRHTUpXlnXs=",
   "success": true,
-  "projectFilePath": "C:\\Joaquin Files\\VS COMMUNITY\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+  "projectFilePath": "C:\\Joaquin Files\\VS COMMUNITY\\Communelink\\COMMUNELINK\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\nspire 10142024-3\\.nuget\\packages\\blazor.bootstrap\\3.2.0\\blazor.bootstrap.3.2.0.nupkg.sha512",
     "C:\\Users\\nspire 10142024-3\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.11\\microsoft.aspnetcore.authorization.8.0.11.nupkg.sha512",

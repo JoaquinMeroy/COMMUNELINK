@@ -683,11 +683,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Joaquin Files\\VS COMMUNITY\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+      "projectUniqueName": "C:\\Joaquin Files\\VS COMMUNITY\\Communelink\\COMMUNELINK\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
       "projectName": "BlazorApp1",
-      "projectPath": "C:\\Joaquin Files\\VS COMMUNITY\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+      "projectPath": "C:\\Joaquin Files\\VS COMMUNITY\\Communelink\\COMMUNELINK\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
       "packagesPath": "C:\\Users\\nspire 10142024-3\\.nuget\\packages\\",
-      "outputPath": "C:\\Joaquin Files\\VS COMMUNITY\\BlazorApp1\\BlazorApp1\\obj\\",
+      "outputPath": "C:\\Joaquin Files\\VS COMMUNITY\\Communelink\\COMMUNELINK\\BlazorApp1\\BlazorApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nspire 10142024-3\\AppData\\Roaming\\NuGet\\NuGet.Config",
